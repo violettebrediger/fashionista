@@ -1,0 +1,14 @@
+.btn-pink {
+	display: inline-block;
+	padding: 15px 30px;
+	background-color: deeppink;
+	color: whitesmoke;
+	border-radius: 15px;
+	font-size: 20px;
+	font-weight: bold;
+	transition: deeppink 0.9 ease;
+}
+
+.btn-pink:hover {
+	background-color: #FC0125;
+}

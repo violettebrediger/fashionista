@@ -1,0 +1,18 @@
+.avatar {
+	display: flex;
+	align-items: center;
+	margin: 20px;
+}
+
+.avatar img {
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	border: 3px solid #FFF;
+	margin-right: 15px;
+}
+
+.avatar p {
+	font-size: 15px;
+	color: deeppink;
+}
